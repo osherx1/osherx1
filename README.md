@@ -135,7 +135,7 @@
 ## 🔗 Connect With Me
 
 [![itch.io](https://img.shields.io/badge/My_Games_on-itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://osherx.itch.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osher-abuhazira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/osher-abuhazira-4aa274312)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/osherx1)
 
 ---
