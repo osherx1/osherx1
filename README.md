@@ -34,7 +34,7 @@
 - **Multi-phase boss fight** with 3 escalating phases
 - **5 drawing tools:** Pencil, Rope, Iron Line, Glue, Eraser
 - RDP line simplification, DOTween object pooling, Unity New Input System
-- **Team of 5** — Huji × Bezalel Dev Course 2026
+ - **Team of 3** developers + 2 artists - Huji × Bezalel Dev Course 2026
 
 ---
 
@@ -97,7 +97,7 @@
 
 - Local multiplayer with lightning attacks
 - Finish-line scoring system, camera shake effects
-- **Team of 5** — Huji × Bezalel Gaming Lab
+-  **Team of 3** developers + 2 artists - Huji × Bezalel Gaming Lab
 
 ---
 
