@@ -126,8 +126,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=osherx1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=osherx1&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
