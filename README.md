@@ -16,8 +16,8 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **Game Engines:** Unity 6 (URP, 2D, Input System, Cinemachine, ProBuilder, DOTween)  
-**Languages:** C#, Python, ShaderLab / HLSL, TypeScript (basics)  
-**AI / ML:** Gemini API, Tesseract OCR, RAG pipelines, Streamlit, Ollama  
+**Languages:** C#, Python, ShaderLab , TypeScript (basics) 
+**AI / ML:** Gemini API, Tesseract OCR, RAG pipelines, Ollama  
 **Backend:** FastAPI, Next.js  
 **Tools:** Git, GitHub Actions
 
