@@ -4,7 +4,6 @@
 🎮 **Unity Developer** | C# | Python | Game Systems Architecture  
 🕹️ Building games where creative vision meets technical depth  
 
-![Profile Views](https://komarev.com/ghpvc/?username=osherx1&color=blueviolet&style=flat-square)
 
 ---
 
